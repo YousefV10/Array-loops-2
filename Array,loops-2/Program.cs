@@ -58,7 +58,7 @@
 //}
 #endregion
 
-#region Task3 - Yaza bilmədim 
+#region Task3 - Yaza bilmədim (başa düşmədim )
 #endregion
 
 #region Task4
